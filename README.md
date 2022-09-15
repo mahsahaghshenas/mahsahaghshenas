@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mahsahaghshenas
 - 👀 I’m interested in HTML / CSS / JS
 - 🌱 I’m currently learning JQUERY
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me email : mahsa.haghshenas1999@gmail.com
 
 <!---
 mahsahaghshenas/mahsahaghshenas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
